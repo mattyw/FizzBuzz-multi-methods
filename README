@@ -1,13 +1,13 @@
 # fizzbuzz_mm
 
-FIXME: write description
+An implementation of the fizzbuzz kata using clojure multimethods
 
 ## Usage
 
-FIXME: write
+lein test
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Matthew Williams
 
 Distributed under the Eclipse Public License, the same as Clojure.
