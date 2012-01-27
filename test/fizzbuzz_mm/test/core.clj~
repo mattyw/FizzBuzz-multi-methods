@@ -1,0 +1,6 @@
+(ns fizzbuzz_mm.test.core
+  (:use [fizzbuzz_mm.core])
+  (:use [clojure.test]))
+
+(deftest replace-me ;; FIXME: write
+  (is false "No tests have been written."))
